@@ -1,6 +1,14 @@
-h1{
-    color: red;
+p{
+color: red;
 }
-label{
-    color: green;
+.par{
+    color: blue;
 }
+.dex{
+color: green;
+}
+#color{
+color:yellow;
+}
+    
+
