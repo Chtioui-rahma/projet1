@@ -1,14 +1,13 @@
-p{
-color: red;
-}
-.par{
-    color: blue;
-}
-.dex{
-color: green;
-}
-#color{
-color:yellow;
-}
-    
 
+.textcolor{color: blue;
+
+}
+
+
+.bg{
+    background-color: #F0F0F0(236, 238, 236);
+}
+.TEXTPOSITION{
+    padding: 150PX 80PX 0PX 0PX
+
+}
